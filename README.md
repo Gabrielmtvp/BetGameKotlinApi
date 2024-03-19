@@ -36,4 +36,12 @@ All tests passed successfully
 
 <img width="1440" alt="Screenshot 2024-03-19 at 13 14 17" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/2f0b3997-fcfb-4b88-881e-86a8beb66313">
 
-Made with ❤️ by me ⚡
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Thank you for following along with this guide to set up and run the BetGameKotlinApi. I hope this guide has provided you with a clear path to getting your Spring Boot and Kotlin application up and running with Docker. 
+
+As you continue to explore and build, remember that each challenge is an opportunity to learn and grow. Don't hesitate to experiment with the code, try new things, and make the application truly your own. 
+
+Happy coding, and may your bets always be in your favor! 
+
+Made with ❤️ and a dash of ⚡ by me.

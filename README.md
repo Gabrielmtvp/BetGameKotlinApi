@@ -33,6 +33,9 @@ This command creates a new container in the Docker environment and starts a Post
 
 
 # 4. Run the Spring Boot + Kotlin Application (Locally)
+
+Note: to run locally you will need the postgresql databaset. You can use the previous step to use Docker and run the database.
+
 Now, you can run the Spring Boot + Kotlin application from your IDE or using a command line tool.
 
 <img width="1067" alt="Screenshot 2024-03-18 at 22 46 00" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/bcd7b00e-9fcb-4e28-8f72-65ea698de85c">

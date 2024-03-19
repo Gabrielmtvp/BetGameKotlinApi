@@ -22,7 +22,17 @@ This command creates a new container in the Docker environment and starts a Post
 
 <img width="1437" alt="Screenshot 2024-03-19 at 13 08 47" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/bca72058-f6df-44ec-abb0-a50385405226">
 
-# 4. Run the Spring Boot + Kotlin Application
+
+<img width="1421" alt="Screenshot 2024-03-19 at 14 37 00" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/88a2734a-2f2f-486d-9c31-81f696d9a7f7">
+
+
+<img width="1198" alt="Screenshot 2024-03-19 at 14 37 19" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/e1e4b6e6-423c-4e63-88c2-1ac0356463e2">
+
+
+<img width="1440" alt="Screenshot 2024-03-19 at 14 41 35" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/f39ad43b-75cd-4606-86de-f8d1bb650344">
+
+
+# 4. Run the Spring Boot + Kotlin Application (Locally)
 Now, you can run the Spring Boot + Kotlin application from your IDE or using a command line tool.
 
 <img width="1067" alt="Screenshot 2024-03-18 at 22 46 00" src="https://github.com/Gabrielmtvp/BetGameKotlinApi/assets/23700451/bcd7b00e-9fcb-4e28-8f72-65ea698de85c">
